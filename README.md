@@ -11,6 +11,7 @@ Backend
 4. pip install flask_cors
 5. pip install imageio
 6. python app.py
+
 Frontend
 7. cd ../libre-service 
 8. npm install npm@latest -g
